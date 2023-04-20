@@ -1,6 +1,6 @@
 # Zatec challenge
 
-This is a Laravel project. It uses Laravel and MySQL.
+This is a Laravel project. It uses Laravel-php and MySQL database.
 
 1. Clone the repo `git clone https://github.com/mugishajc/zatec-challenge-api`.
 2. Copy `.env.example` file to `.env` on root folder and configure your database.
