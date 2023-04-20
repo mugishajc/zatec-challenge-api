@@ -1,7 +1,7 @@
 # Zatec challenge
 
 This is a Laravel project. It uses Laravel-php and MySQL database.
-
+0. install mysql server and mysql workbench (not mandatory it's just for user interface interraction with tha database or you can use the CLI) in your PC
 1. Clone the repo `git clone https://github.com/mugishajc/zatec-challenge-api`.
 2. Copy `.env.example` file to `.env` on root folder and configure your database.
 3. Install composer dependencies: `composer install`.
